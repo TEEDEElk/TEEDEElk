@@ -1,12 +1,15 @@
-# Hi there, I'm @TEEDEElk 👋
+Hi, I'm TEEDEElk 👋
 
-Welcome to my GitHub profile! I'm a passionate developer interested in creating innovative solutions and contributing to open-source projects.
+Welcome to my GitHub profile! I’m a curious builder who enjoys turning ideas into real-world software.
 
-## 🚀 About Me
+🚀 About Me
 
-- 👀 **Interests:** Software development, open-source contributions, and cutting-edge technologies
-- 🌱 **Currently Learning:** Advanced software architecture, cloud technologies, and modern development frameworks
-- 💞️ **Collaboration:** Always open to collaborating on interesting projects and innovative ideas
-- 📫 **Reach Me:** Feel free to connect through GitHub issues or discussions
-- 😄 **Pronouns:** They/Them
-- ⚡ **Fun Fact:** I love solving complex problems and turning ideas into reality through code
+🔭 Currently working on open-source projects and personal experiments.
+
+🌱 Always learning — exploring cloud computing, DevOps, and full-stack development.
+
+👯 Open to collaborating on impactful open-source and community projects.
+
+💬 Ask me about software development, open source, or scaling applications.
+
+📫 Reach me at: predeeppp12@gmail.com
